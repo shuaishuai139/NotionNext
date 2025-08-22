@@ -42,42 +42,38 @@ const CONFIG = {
       name: '友情链接',
       menus: [
         {
-          title: 'Tangly的学习笔记',
+          title: 'PM_成长研究所',
           href: 'https://blog.tangly1024.com'
-        },
-        {
-          title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
         }
       ]
     },
     {
-      name: '开发者',
+      name: '成长项目',
       menus: [
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
-          title: '开发帮助',
+          title: '共创成长',
           href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
         },
         {
-          title: '功能反馈',
+          title: '复利系列',
           href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
         },
         {
-          title: '技术讨论',
+          title: 'TimeStudy',
           href: 'https://github.com/tangly1024/NotionNext/discussions'
         },
         {
-          title: '关于作者',
+          title: '产研搭子',
           href: 'https://blog.tangly1024.com/about'
         }
       ]
     },
     {
-      name: '支持',
+      name: '交流',
       menus: [
         {
-          title: '站长社群',
+          title: '成长社群',
           href: 'https://docs.tangly1024.com/article/chat-community'
         },
         {
