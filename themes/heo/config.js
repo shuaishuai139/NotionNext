@@ -17,8 +17,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '产品经理知识',
-  HEO_HERO_TITLE_2: '与职场经验分享',
+  HEO_HERO_TITLE_1: 'PM知识',
+  HEO_HERO_TITLE_2: '与经验分享',
   HEO_HERO_TITLE_3: 'https://www.gri.wang/',
   HEO_HERO_TITLE_4: '官网上线',
   HEO_HERO_TITLE_5: '前往 PM成长研究所官网主页',
