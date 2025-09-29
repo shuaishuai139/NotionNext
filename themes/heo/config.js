@@ -95,7 +95,7 @@ const CONFIG = {
       color_1: '#f29e39',
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#262626'
+      color_2: '#ffffff'
     },
     {
       title_1: 'JS',
