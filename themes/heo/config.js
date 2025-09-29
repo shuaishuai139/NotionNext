@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '公众号',
   HEO_SOCIAL_CARD_TITLE_2: '查看微信公众号最新文章',
   HEO_SOCIAL_CARD_TITLE_3: '扫一扫，不错过最新文章', // 二维码描述信息
-  HEO_SOCIAL_CARD_QRCODE: 'https://cdn.jsdelivr.net/gh/fghrsh/assets/post/qrcode.png', /
+  HEO_SOCIAL_CARD_QRCODE: 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDCMto2hvKjs6RLX0TAAEFBQ72x8C3FToAAvYeAAIGudBW2mLWZfawK8Y2BA.jpg', 
  
   HEO_SOCIAL_CARD_URL: 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEDCMto2hvKjs6RLX0TAAEFBQ72x8C3FToAAvYeAAIGudBW2mLWZfawK8Y2BA.jpg',
 
