@@ -118,7 +118,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '公众号',
   HEO_SOCIAL_CARD_TITLE_2: '查看微信公众号最新文章',
-  HEO_SOCIAL_CARD_TITLE_3: '扫一扫，不错过最新文章', // 二维码描述信息
+  HEO_SOCIAL_CARD_TITLE_3: '点击查看，不错过最新文章', // 二维码描述信息
  
   HEO_SOCIAL_CARD_URL: 'https://mp.weixin.qq.com/s/v8dHr9vYk07wdXZhux61fg?payreadticket=HE7a2elVFqvDE7lQ8igSrM5jW5nm_ayQlIYokBNQ96JqMZaT7i01S1PFN72Unf_2f8IZK50',
 
